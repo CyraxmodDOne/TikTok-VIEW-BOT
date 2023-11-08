@@ -1,3 +1,5 @@
+TIKTOK-VIEW-BOT
+
 How can I install and use this?
 Read the in in-depth tutorial about how to set up this script if you have little to no knowledge in coding.
 
