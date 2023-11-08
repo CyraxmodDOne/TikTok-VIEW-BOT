@@ -5,7 +5,7 @@ Read the in in-depth tutorial about how to set up this script if you have little
 
 Git-clone this repo & change directory
 
-git clone https://github.com/
+git clone https://github.com/CyraxmodDOne/TikTok-VIEW-BOT.git
 cd V2
 Install modules using pip:
 
